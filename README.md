@@ -19,7 +19,7 @@
  - Ability to control different levels of image generation.
  - Separates high-level attributes from stochastic details.
 
-## Limitations of this Implementation:
+## Limitations of this Implementation
 
  - Simplified version of the original StyleGAN.
  - Does not include full progressive growing.
