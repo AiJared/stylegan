@@ -1,4 +1,4 @@
-# Image Generation Model using StyleGAN
+# Image Generation Model using NVIDIA's StyleGAN
 
 ## Key Innovations in StyleGAN
 
