@@ -14,7 +14,7 @@
  - Simulated Adaptive Instance Normalization (AdaIN).
  - Noise injection for stochastic variation.
 
-3. **Style Mixing**
+3. **Style Mixing.**
 
  - Ability to control different levels of image generation.
  - Separates high-level attributes from stochastic details.
