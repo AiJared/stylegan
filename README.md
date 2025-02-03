@@ -11,7 +11,7 @@
 2. **Synthesis Network.**
 
  - Progressive growing of feature maps.
- - Simulated Adaptive Instance Normalization (AdaIN).
+ - A simulated Adaptive Instance Normalization (AdaIN).
  - Noise injection for stochastic variation.
 
 3. **Style Mixing.**
