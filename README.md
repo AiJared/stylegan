@@ -21,7 +21,7 @@
 
 ## Limitations of this Implementation
 
- - Simplified version of the original StyleGAN.
+ - Simpler version of the original StyleGAN.
  - Does not include full progressive growing.
  - Approximates AdaIN concept.
  - Reduced computational complexity.
