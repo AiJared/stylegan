@@ -6,7 +6,7 @@
 
  - Transforms input noise to an intermediate latent space.
  - Non-linear transformations prevent unwanted correlations.
- - Allows for more controlled generation.
+ - Allows for controlled generation.
 
 2. **Synthesis Network.**
 
