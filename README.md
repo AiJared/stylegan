@@ -16,7 +16,7 @@
 
 3. **Style Mixing.**
 
- - Ability to control different levels of image generation.
+ - The ability to control different levels of image generation.
  - Separates high-level attributes from stochastic details.
 
 ## Limitations of this Implementation
